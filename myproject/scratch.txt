@@ -1,0 +1,3 @@
+to run the phpadminlocally
+cd /opt/homebrew/share/phpmyadmin
+php -S 127.0.0.1:8081
